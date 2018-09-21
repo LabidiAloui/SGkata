@@ -1,4 +1,4 @@
-his program was developed as a kata exercise.
+This program was developed as a kata exercise.
 This Java SpringBoot program expose a simple REST service API to manage a bank account.
 
 FYI:
